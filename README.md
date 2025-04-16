@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on **real-world frontend projects and open-source MERN stack applications**
 - 📫 How to reach me: **abhishekghongade2016@gmail.com** | 
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I can create an entire project with MERN STACK while vibing to lo-fi beats ☕
+  
 
 <!---
 AbhishekGhongade21/AbhishekGhongade21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
