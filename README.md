@@ -21,10 +21,11 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center" style="font-size:16px;">
-🔥 Frontend Developer focused on React + Vite <br/>
-⚡ Building Micro-Frontend architectures using Module Federation <br/>
-🧠 Strong interest in DSA & System Design <br/>
-🎯 Goal: Crack top tech companies <br/>
+🔥 Frontend Developer specialized in building scalable and high-performance React + Vite applications <br/>
+⚡ Strong focus on writing clean, maintainable, and component-driven architecture <br/>
+🧠 Logical thinker with deep interest in Data Structures, Algorithms & System Design <br/>
+💡 Passionate about solving real-world problems with optimized and efficient solutions <br/>
+🎯 Continuously improving to reach top-tier engineering standards <br/>
 📍 Based in India
 </p>
 
