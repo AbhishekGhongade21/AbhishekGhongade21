@@ -45,7 +45,7 @@ Dynamic text color based on brightness
 🏆 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" /> </p>
 🌐 Connect With Me
-<p> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
+<p> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/abhishek-ghongade-2b1386279/)" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
 💡 Quote I Believe In
 
 “Consistency beats motivation.”
