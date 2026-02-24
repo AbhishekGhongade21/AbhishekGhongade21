@@ -1,51 +1,55 @@
-🚀 Abhishek Ghongade
+# 🚀 Abhishek Ghongade
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Vite+%7C+Module+Federation;DSA+Enthusiast;Building+Scalable+Microfrontends" />
-👨‍💻 About Me
 
-🔥 Frontend Developer focused on React + Vite
+---
 
-⚡ Building Micro-Frontend architectures using Module Federation
+## 👨‍💻 About Me
 
-🧠 Strong interest in DSA & System Design
+🔥 Frontend Developer focused on React + Vite  
+⚡ Building Micro-Frontend architectures using Module Federation  
+🧠 Strong interest in DSA & System Design  
+🎯 Goal: Crack top tech companies  
+📍 Based in India  
 
-🎯 Goal: Crack top tech companies
+---
 
-📍 Based in India
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-🚀 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,sass,redux,tailwind,bootstrap,materialui,nextjs,figma" /> </p>
-🧠 Programming
-<p> <img src="https://skillicons.dev/icons?i=java,cpp" /> </p>
-🛠 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,webpack" /> </p>
-🏗️ Featured Projects
-🔥 Microfrontend Architecture (Vite + Module Federation)
+### 🚀 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,sass,redux,tailwind,bootstrap,materialui,nextjs,figma" />
+</p>
 
-Remote + Host apps
+---
 
-Shared Sidebar across ports
+### 🧠 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
 
-Lazy-loaded components
+---
 
-Dynamic routing setup
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,webpack" />
+</p>
 
-🎨 Interactive ID Card App
+---
 
-Theme switcher (5 themes)
+## 🌐 Connect With Me
 
-Front/Back card swap
+<p>
+  <a href="https://www.linkedin.com/in/abhishek-ghongade-2b1386279/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:abhishekvg2016@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-Image upload
+---
 
-Dynamic text color based on brightness
+## 💡 Quote I Believe In
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> </p>
-🏆 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" /> </p>
-🌐 Connect With Me
-<p> <a href="https://www.linkedin.com/in/abhishek-ghongade-2b1386279/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:abhishekvg2016@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
-💡 Quote I Believe In
-
-“Consistency beats motivation.”
+> “Consistency beats motivation.”
