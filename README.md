@@ -14,11 +14,11 @@
 
 🛠️ Tech Stack
 🚀 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,redux,tailwind" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,sass,redux,tailwind,bootstrap,materialui,nextjs,figma" /> </p>
 🧠 Programming
 <p> <img src="https://skillicons.dev/icons?i=java,cpp" /> </p>
 🛠 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,webpack" /> </p>
 🏗️ Featured Projects
 🔥 Microfrontend Architecture (Vite + Module Federation)
 
@@ -45,7 +45,7 @@ Dynamic text color based on brightness
 🏆 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" /> </p>
 🌐 Connect With Me
-<p> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/abhishek-ghongade-2b1386279/)" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
+<p> <a href="https://www.linkedin.com/in/abhishek-ghongade-2b1386279/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:abhishekvg2016@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
 💡 Quote I Believe In
 
 “Consistency beats motivation.”
