@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Vite+%7C+Module+Federation;DSA+Enthusiast;Building+Scalable+Microfrontends" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%7C+Vite+%7C+Scalable+UI;Logic+Driven+Developer;Problem+Solver+%7C+DSA+Focused" />
 </p>
 
 <hr style="border: 1px solid #222;" />
