@@ -56,19 +56,17 @@
 <hr style="border: 1px solid #222;" />
 
 <!-- ================= CONNECT ================= -->
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-ghongade-2b1386279/">
+  <a href="https://www.linkedin.com/in/abhishek-ghongade-2b1386279/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:abhishekvg2016@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhishekvg2016@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
 <hr style="border: 1px solid #222;" />
 
 <!-- ================= QUOTE ================= -->
