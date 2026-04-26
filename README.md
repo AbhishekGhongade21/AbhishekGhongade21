@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+MERN+Stack;I+build+fast%2C+clean%2C+scalable+UIs;Open+to+Frontend+%26+Fullstack+Roles" />
 </p>
 
+<p align="center">
+  <a href="https://abhishekghongade.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-abhishekghongade.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
 -----
 
 ## Who I Am
@@ -93,10 +99,14 @@ If you’re building something and need a developer who writes clean, maintainab
   <a href="https://github.com/AbhishekGhongade21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://abhishekghongade.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
 
 -----
 
 <p align="center" style="color: #555; font-size: 13px;">
   <em>"Consistency beats motivation."</em> — building something every day.
-  </p>
+</p>
