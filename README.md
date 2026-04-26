@@ -1,82 +1,102 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center" style="
-  font-family: 'Fira Code', monospace;
-  font-size: 42px;
-  background: linear-gradient(90deg, #00F7FF, #8A2BE2);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-">
-  🚀 Abhishek Ghongade
-</h1>
+<h1 align="center">Hey, I'm Abhishek 👋</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%7C+Vite+%7C+Scalable+UI;Logic+Driven+Developer;Problem+Solver+%7C+DSA+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+MERN+Stack;I+build+fast%2C+clean%2C+scalable+UIs;Open+to+Frontend+%26+Fullstack+Roles" />
 </p>
 
-<hr style="border: 1px solid #222;" />
+-----
 
-<!-- ================= ABOUT ================= -->
+## Who I Am
 
-<h2 align="center">👨‍💻 About Me</h2>
+I’m a **Frontend Developer** with 1+ year of professional experience building production-grade web applications using **React.js and the MERN stack**. I care about clean code, fast UIs, and shipping things that actually work.
 
-<p align="center" style="font-size:16px;">
-🔥 Frontend Developer specialized in building scalable and high-performance React + Vite applications <br/>
-⚡ Strong focus on writing clean, maintainable, and component-driven architecture <br/>
-🧠 Logical thinker with deep interest in Data Structures, Algorithms & System Design <br/>
-💡 Passionate about solving real-world problems with optimized and efficient solutions <br/>
-🎯 Continuously improving to reach top-tier engineering standards <br/>
-📍 Based in India
-</p>
+Currently completing my **MCS from Savitribai Phule Pune University** while working full-time as a developer — which means I’ve been building real products under real deadlines, not just hobby projects.
 
-<hr style="border: 1px solid #222;" />
+My sweet spot is **React + Node.js** — from component architecture and state management to RESTful APIs and JWT auth. I write code I’d want to maintain six months later.
 
-<!-- ================= TECH STACK ================= -->
+-----
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🔨 What I Work With
 
-<h3 align="center">🚀 Frontend</h3>
+**Core Stack**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,sass,redux,tailwind,bootstrap,materialui,nextjs,figma" />
-</p>
+- React.js · Vite · Redux · Context API · TypeScript
+- Node.js · Express.js · MongoDB · REST APIs · JWT Auth
 
-<h3 align="center">🧠 Programming</h3>
+**Frontend**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
-</p>
+- Tailwind CSS · Material-UI · HTML5 · CSS3 · Responsive Design
 
-<h3 align="center">🛠 Tools</h3>
+**Tooling**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn,webpack" />
-</p>
+- Git · GitHub · Postman · Firebase · Netlify · Render · VS Code
 
-<hr style="border: 1px solid #222;" />
+**CS Fundamentals**
 
-<!-- ================= CONNECT ================= -->
-<h2 align="center">🌐 Connect With Me</h2>
+- Data Structures & Algorithms · OOP · System Design Basics · Agile/Scrum
 
-<p align="center">
+-----
+
+## 🚀 Projects I’m Proud Of
+
+### 💸 AI Expense Tracker — [Live Demo](https://abhishekexpensestracker.netlify.app)
+
+`MongoDB · Express.js · React.js · Node.js · JWT · Netlify · Render`
+
+A full-stack MERN expense tracker I built end-to-end — from schema design to deployment.
+
+- JWT auth with protected routes and secure session handling
+- Full CRUD REST API with MongoDB persistence
+- Mobile-first responsive UI with optimized component rendering
+
+> **Why it matters:** This is a complete production app, not a tutorial clone. I owned every layer — database, API, frontend, and deployment.
+
+-----
+
+### 👟 Kyntra — E-Commerce Shoe Store
+
+`React.js · Vite · Context API · Responsive Web Design`
+
+A feature-complete e-commerce app with real product logic built in.
+
+- Product search, advanced filtering, and a fully functional cart
+- Real-time GST calculation and discount logic via Context API
+- Fully responsive across mobile, tablet, and desktop
+- Modular component architecture built for maintainability
+
+> **Why it matters:** This goes beyond a static storefront — the pricing logic, state management, and component structure reflect how real e-commerce UIs are built.
+
+-----
+
+## 📈 Currently
+
+- 🔭 Working on improving performance optimization patterns in React
+- 🌱 Deepening knowledge in TypeScript and System Design
+- 💼 **Open to frontend or full-stack roles** — remote or Pune-based
+- 🤝 Available for **freelance projects** involving React or MERN stack
+
+-----
+
+## 📬 Let’s Connect
+
+If you’re building something and need a developer who writes clean, maintainable code and ships on time — let’s talk.
+
+<p>
   <a href="https://www.linkedin.com/in/abhishek-ghongade-2b1386279/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abhishekvg2016@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  &nbsp;
+  <a href="mailto:abhishekvg2016@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AbhishekGhongade21" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<hr style="border: 1px solid #222;" />
 
-<!-- ================= QUOTE ================= -->
+-----
 
-<h2 align="center">💡 Quote I Believe In</h2>
-
-<p align="center" style="
-  font-style: italic;
-  font-size:18px;
-  color:#00F7FF;
-">
-  “Consistency beats motivation.”
+<p align="center" style="color: #555; font-size: 13px;">
+  <em>"Consistency beats motivation."</em> — building something every day.
 </p>
