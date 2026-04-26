@@ -99,4 +99,4 @@ If you’re building something and need a developer who writes clean, maintainab
 
 <p align="center" style="color: #555; font-size: 13px;">
   <em>"Consistency beats motivation."</em> — building something every day.
-</p>
+  </p>
