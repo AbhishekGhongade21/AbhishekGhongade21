@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Abhishek 👋</h1>
+<h1 align="center">Hey, I'm Abhishek Ghongade 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%26+MERN+Stack;I+build+fast%2C+clean%2C+scalable+UIs;Open+to+Frontend+%26+Fullstack+Roles" />
